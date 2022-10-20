@@ -21,7 +21,20 @@
 </a>
 
 
-
+ ### Skills
+ <div align="left">
+ <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+ <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+ <img src ="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+ <img src ="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+ <img src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src ="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+ <img src ="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
+ <img src ="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img src ="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+ <img src ="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+ <img src ="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" />
+   
 ### :open_book: GitHub Stats
 ![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=paimaam&show_icons=true&theme=radical)   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paimaam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   [![GitHub Streak](https://streak-stats.demolab.com/?user=paimaam&theme=radical)](https://git.io/streak-stats)
 
@@ -30,4 +43,4 @@
 
 ---
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Dileep's github activity graph](https://activity-graph.herokuapp.com/graph?username=paimaam&theme=github)
